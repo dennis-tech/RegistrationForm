@@ -59,6 +59,7 @@ body {
     position: absolute;
     margin: 15px;
     color: white;
+    cursor: pointer;
 }
 .last-div h2 {
     text-align: center;
